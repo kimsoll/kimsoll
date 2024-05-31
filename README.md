@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Python](https://img.shields.io/badge/language-python-blue)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/python-purple)](https://www.python.org/)
+[![R](https://img.shields.io/badge/R-blue)](https://www.r-project.org/)
 
 
 
