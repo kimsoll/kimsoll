@@ -1,4 +1,4 @@
-## Hi there 👋
+## 안녕하세요 👋
 
 <!--
 **kimsoll/kimsoll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Python](https://img.shields.io/badge/language-python-blue)](https://www.python.org/)
+
+
+
+
